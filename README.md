@@ -2,6 +2,10 @@
 BEC Test  date is May 22 2022
 
 // calculator
+
+
+
+
  let operation =prompt('enter the operation such as +,-,*,/');
  const num1 = parseInt(prompt('enter the first number'));
  const num2 = parseInt(prompt('enter the second number'));
